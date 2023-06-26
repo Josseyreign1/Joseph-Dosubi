@@ -1,6 +1,6 @@
 - 😊 Hello, I’m @Josseyreign1
 - 💻 I’m an experienced web designer
-- 🌱 I’m currently learning html, css, javascript and adobe photoshop 
+- 🌱 I’m currently learning Figma, UI/UX, javascript and adobe photoshop 
 - 👥 I’m looking to collaborate on UI/UX designs and other web design related jobs and projects
 - 📫 You can reach me through my email: josseyreign17@gmail.com 
 

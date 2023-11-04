@@ -1,4 +1,4 @@
-- 😊 Hello, I’m @Josseyreign1
+- 😊 Hello, I’m Joseph Dosubi
 - 💻 I’m an experienced web designer
 - 🌱 I’m currently learning Figma, UI/UX, javascript and adobe photoshop 
 - 👥 I’m looking to collaborate on UI/UX designs and other web design related jobs and projects
